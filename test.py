@@ -2,4 +2,4 @@ print "hello world"
 
 
 if __name__ == "__main__":
-    print "Ths is Python 2.7"
+    print "Ths is Python 2"
